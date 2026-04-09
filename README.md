@@ -13,7 +13,7 @@ To build a deep learning model capable of detecting cancer from medical images w
   - 0 → Benign
   - 1 → Malignant
 
-## ⚙️ Model Architecture
+##  Model Architecture
 - Convolutional Layers (Feature Extraction)
 - MaxPooling Layers (Dimensionality Reduction)
 - Flatten Layer
